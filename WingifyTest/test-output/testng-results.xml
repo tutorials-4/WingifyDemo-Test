@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-06T17:33:02 IST" name="Suite" finished-at="2023-01-06T17:33:21 IST" duration-ms="18209">
+    <groups>
+    </groups>
+    <test started-at="2023-01-06T17:33:02 IST" name="Test" finished-at="2023-01-06T17:33:21 IST" duration-ms="18209">
+      <class name="com.test.WingTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.test.WingTest@58695725]" started-at="2023-01-06T17:33:02 IST" name="initialization" finished-at="2023-01-06T17:33:08 IST" duration-ms="5306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="loginTest()[pri:1, instance:com.test.WingTest@58695725]" started-at="2023-01-06T17:33:08 IST" name="loginTest" finished-at="2023-01-06T17:33:17 IST" duration-ms="9531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="VerifyAmmountTest()[pri:2, instance:com.test.WingTest@58695725]" started-at="2023-01-06T17:33:17 IST" name="VerifyAmmountTest" finished-at="2023-01-06T17:33:21 IST" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAmmountTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.test.WingTest@58695725]" started-at="2023-01-06T17:33:21 IST" name="closeBrowser" finished-at="2023-01-06T17:33:21 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.WingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
